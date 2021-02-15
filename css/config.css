@@ -1,0 +1,44 @@
+.div1{
+    top: 25px;
+    
+}
+.logo{
+    height: 35px;
+}
+.home{
+    height: 15px;
+    margin-left: 15px;
+}
+.div2{
+    color: black;
+    display: flex;
+    flex-direction: row;
+    margin-top: 150px;
+    margin-left: 341px;
+}
+.black{
+    font-size: 20px;
+    color: black;
+}
+.menu{
+    border: 10px solid honeydew;
+    background-repeat: no-repeat;
+    background-repeat: round;
+    width: 400px;  
+    
+    
+    
+}
+
+.textmenu{
+    font-size: 20px;
+    color: black;
+}
+.texto-de-baixo-menu{
+    text-align: center; 
+    font-size: 25px; 
+    font-family: sans-serif;
+    margin-left: 110px;
+    margin-bottom: 40px;
+    margin-right: 110px;
+}
